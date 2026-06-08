@@ -1,36 +1,3 @@
-# 🚀 medusa - 二次开发增强版
-
-> 本项目是基于开源项目的二次开发增强版本
-
-## 📌 关于
-
-本仓库是基于 [原始开源项目](https://github.com/original/medusa) 的二次开发增强版本。
-
-### ✨ 新增功能
-
-- 🔧 添加 CONTRIBUTING.md 贡献指南
-- 📚 添加 CODE_OF_CONDUCT.md 行为准则
-- ⚡ 添加 GitHub Actions CI 工作流
-- 📖 补充中文文档
-
-## 📦 快速开始
-
-```bash
-git clone https://github.com/AISKILLEcommerce/medusa.git
-cd medusa
-# 安装依赖并使用
-```
-
-## 📄 许可证
-
-基于原项目许可证，详情见 [LICENSE](LICENSE) 文件。
-
----
-
-**原始项目**: https://github.com/original/medusa
-
----
-
 <p align="center">
   <a href="https://www.medusajs.com">
   <picture>
@@ -104,4 +71,3 @@ Join our [Discord server](https://discord.gg/medusajs) to meet and discuss with 
 ## License
 
 Licensed under the [MIT License](https://github.com/medusajs/medusa/blob/develop/LICENSE).
-
